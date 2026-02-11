@@ -94,7 +94,7 @@ CC-Hydrology-Guide/
 ## 📚 References
 
 - [Claude Code Official Documentation](https://code.claude.com/docs/) - Official docs from Anthropic
-- [Claude Code 中文文档](https://claudecode.tangshuang.net/) - Unofficial Chinese translation
+- [Claude Code 中文文档](https://claudecode.tangshuang.net/) - Third-party Chinese documentation
 
 ---
 
