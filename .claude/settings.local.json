@@ -7,7 +7,12 @@
       "Bash(git remote set-url:*)",
       "Bash(move:*)",
       "Bash(cmd.exe:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(timeout:*)",
+      "Bash(gh run view:*)",
+      "Bash(gh run list:*)",
+      "Bash(curl:*)",
+      "Bash(npm run docs:build:*)"
     ],
     "additionalDirectories": [
       "c:\\Users\\Wei\\Downloads\\CCusage"
