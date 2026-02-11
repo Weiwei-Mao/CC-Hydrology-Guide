@@ -2,9 +2,12 @@
 layout: home
 
 hero:
-  name: "Claude Code Guide for Hydrological Research"
-  text: "A Practical Guide for Hydrological Research"
-  tagline: "maybe applicable to environmental and related fields"
+  name: Claude Code Guide for Hydrological Research
+  text: A Practical Guide for Hydrological Research
+  tagline: For hydrological research and related fields
+  image:
+    src: /logo.png
+    alt: Claude Code Guide
   actions:
     - theme: brand
       text: Get Started
@@ -14,18 +17,24 @@ hero:
       link: https://github.com/Weiwei-Mao/CC-Hydrology-Guide
 
 features:
-  - title: "Data Analysis"
-    details: "Learn how to efficiently process hydrological time series data with AI assistance."
-  - title: "Visualization"
-    details: "Quickly generate scientific visualization charts for your research."
-  - title: "Literature Management"
-    details: "Manage references and assist with paper writing using Claude Code."
-  - title: "Hydrological Modeling"
-    details: "Practical tips for using AI in hydrological modeling workflows."
-  - title: "Bilingual Documentation"
-    details: "Available in both English and Chinese for broader accessibility."
-  - title: "Practical Examples"
-    details: "Real-world use cases from actual hydrological research scenarios."
+  - icon: 📊
+    title: Data Analysis
+    details: Learn how to efficiently process hydrological time series data with AI assistance.
+  - icon: 📈
+    title: Visualization
+    details: Quickly generate scientific visualization charts for your research.
+  - icon: 📚
+    title: Literature Management
+    details: Manage references and assist with paper writing using Claude Code.
+  - icon: 🌊
+    title: Hydrological Modeling
+    details: Practical tips for using AI in hydrological modeling workflows.
+  - icon: 🌍
+    title: Bilingual Documentation
+    details: Available in both English and Chinese for broader accessibility.
+  - icon: 💡
+    title: Practical Examples
+    details: Real-world use cases from actual hydrological research scenarios.
 ---
 
 ::: tip Disclaimer
