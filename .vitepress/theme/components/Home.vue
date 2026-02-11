@@ -5,6 +5,7 @@
  * 兼容 SSR (Server-Side Rendering)
  */
 import { computed, onMounted, ref } from 'vue'
+import { withBase } from 'vitepress'
 
 // 使用 ref 来追踪语言状态，避免 SSR 问题
 const isZh = ref(false)
@@ -20,7 +21,7 @@ const contentEn = {
   tagline: 'A Practical Guide for Hydrological Research',
   subtitle: 'For hydrological research and related fields',
   actions: [
-    { text: 'Get Started', link: '/guide/getting-started', primary: true },
+    { text: 'Get Started', link: withBase('/guide/getting-started'), primary: true },
     { text: 'View on GitHub', link: 'https://github.com/Weiwei-Mao/CC-Hydrology-Guide', primary: false }
   ],
   features: [
@@ -64,7 +65,7 @@ const contentZh = {
   tagline: '专为水文研究人员打造的实用指南',
   subtitle: '或许适用于环境及相关领域',
   actions: [
-    { text: '开始阅读', link: '/zh/guide/getting-started', primary: true },
+    { text: '开始阅读', link: withBase('/zh/guide/getting-started'), primary: true },
     { text: '查看 GitHub', link: 'https://github.com/Weiwei-Mao/CC-Hydrology-Guide', primary: false }
   ],
   features: [
