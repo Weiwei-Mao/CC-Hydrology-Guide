@@ -1,0 +1,62 @@
+# Claude Code 本地工作文件
+.claude/
+
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 数据文件
+*.csv
+*.xlsx
+*.xls
+*.dat
+*.nc
+*.h5
+
+# 图片文件（示例除外）
+*.png
+*.jpg
+*.jpeg
+*.pdf
+!examples/*.png
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 输出文件
+results/
+figures/
+output/
