@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "c:\\Users\\Wei\\Downloads\\CCusage"
+    ],
+    "allow": [
+      "Bash(git init:*)"
+    ]
+  }
+}
