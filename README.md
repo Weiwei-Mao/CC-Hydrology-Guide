@@ -87,7 +87,7 @@ Help me plot a stage-discharge relationship curve
 ## Project Structure
 
 ```
-CCusage/
+CC-Hydrology-Guide/
 ├── README.md                    # English homepage (default)
 ├── README-zh.md                 # Chinese homepage
 ├── CLAUDE.md                    # AI assistant configuration (global)

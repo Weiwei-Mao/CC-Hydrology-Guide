@@ -87,7 +87,7 @@ claude
 ## 项目结构
 
 ```
-CCusage/
+CC-Hydrology-Guide/
 ├── README.md                    # 英文版首页（默认）
 ├── README-zh.md                 # 中文版首页
 ├── CLAUDE.md                    # AI 助手配置（全局）
