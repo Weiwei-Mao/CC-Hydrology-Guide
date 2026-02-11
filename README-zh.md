@@ -39,24 +39,7 @@
 
 ## 快速开始
 
-### 安装 Claude Code
-
-Claude Code 需要通过命令行安装。请访问 [Claude Code 官网](https://claude.com/claude-code) 获取详细的安装指南。
-
-### 基础使用
-
-安装完成后，在命令行中输入：
-
-```bash
-claude
-```
-
-即可启动 Claude Code。然后你就可以用自然语言与 AI 对话了：
-
-```
-帮我分析这个水文数据文件
-帮我画一张水位-流量关系图
-```
+安装 Claude Code 后，只需在命令行中输入 `claude` 即可启动。详细安装说明请参阅 [01-基础入门](docs/01-基础入门.md)。
 
 ---
 
@@ -108,12 +91,19 @@ CC-Hydrology-Guide/
 
 ---
 
-## 贡献
+## 🤝 贡献
 
-欢迎提交问题和改进建议！
+欢迎提交问题、改进建议和贡献内容！
+
+**提交 PR 前请：**
+- ✅ 先检查是否有相关 issue
+- ✅ 遵循现有文档风格
+- ✅ 更新时保持中英文版本同步
 
 ---
 
-## 许可
+## 📜 许可
 
-本项目内容可自由使用和分享。
+MIT © [Weiwei Mao](https://github.com/Weiwei-Mao)
+
+详见 [LICENSE](LICENSE)。

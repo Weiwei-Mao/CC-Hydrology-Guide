@@ -39,24 +39,7 @@ This project is a **personal collection** of Claude Code usage tips based on my 
 
 ## Quick Start
 
-### Installing Claude Code
-
-Claude Code requires installation via command line. Visit the [Claude Code official website](https://claude.com/claude-code) for detailed installation instructions.
-
-### Basic Usage
-
-After installation, enter in the command line:
-
-```bash
-claude
-```
-
-You can then converse with AI in natural language:
-
-```
-Help me analyze this hydrological data file
-Help me plot a stage-discharge relationship curve
-```
+After installing Claude Code, simply enter `claude` in the command line to start. See [01-Getting Started](docs/01-Getting-Started.md) for detailed installation instructions.
 
 ---
 
@@ -108,12 +91,19 @@ CC-Hydrology-Guide/
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Issues and improvement suggestions are welcome!
+Contributions, issues, and improvement suggestions are welcome!
+
+**Before submitting PRs:**
+- ✅ Check for existing issues first
+- ✅ Follow the existing documentation style
+- ✅ Ensure bilingual updates (English + Chinese) when applicable
 
 ---
 
-## License
+## 📜 License
 
-Project content is free to use and share.
+MIT © [Weiwei Mao](https://github.com/Weiwei-Mao)
+
+See [LICENSE](LICENSE) for details.
