@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://claude.com/claude-code)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**专为水文研究人员打造的 Claude Code 使用指南** *（同样适用于环境及相关领域）*
+**专为水文研究人员打造的 Claude Code 使用指南** *（或许适用于环境及相关领域）*
 
 基于个人使用经验的实用指南，涵盖常见水文研究场景，包括数据分析、可视化、文献管理、水文建模、PPT 制作等。*说明：本指南并非全面教程，仅为作者个人研究过程中的经验总结。*
 
@@ -18,7 +18,7 @@
 
 ## 简介
 
-本项目是作者基于个人水文研究经验整理的 Claude Code 使用技巧集合（同样适用于环境及相关领域）。Claude Code 是 Anthropic 官方推出的 AI 命令行助手，可以帮助你更高效地进行数据分析、代码编写、文献管理等工作。
+本项目是作者基于个人水文研究经验整理的 Claude Code 使用技巧集合（或许适用于环境及相关领域）。Claude Code 是 [Anthropic 官方推出的 AI 命令行助手](https://claude.com/claude-code)，可以帮助你更高效地进行数据分析、代码编写、文献管理等工作。
 
 > **免责声明**：本指南反映的是作者个人经验，绝非水文研究的全部内容。水文研究领域博大精深——这里只涵盖了作者在自己的研究中遇到过的场景。欢迎根据你自己的需求进行调整和扩展。
 

@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://claude.com/claude-code)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**A Practical Guide to Claude Code for Hydrological Research** *(applicable to environmental and related fields)*
+**A Practical Guide to Claude Code for Hydrological Research** *(maybe applicable to environmental and related fields)*
 
 A practical guide based on personal usage experience, covering common hydrological research scenarios including data analysis, visualization, literature management, hydrological modeling, presentation preparation, and more. *Note: This is not a comprehensive guide—just a collection of practical tips from one researcher's journey.*
 
@@ -18,7 +18,7 @@ A practical guide based on personal usage experience, covering common hydrologic
 
 ## Introduction
 
-This project is a **personal collection** of Claude Code usage tips based on my own research experience in hydrology (applicable to environmental and related fields). Claude Code is Anthropic's official AI command-line assistant that can help you work more efficiently with data analysis, code writing, literature management, and more.
+This project is a **personal collection** of Claude Code usage tips based on my own research experience in hydrology (maybe applicable to environmental and related fields). Claude Code is [Anthropic's official AI command-line assistant](https://claude.com/claude-code) that can help you work more efficiently with data analysis, code writing, literature management, and more.
 
 > **Disclaimer**: This guide reflects my personal experience and is by no means exhaustive. Hydrology is a vast field—this just covers the scenarios I've encountered in my research. Feel free to adapt and extend these examples for your own needs.
 
