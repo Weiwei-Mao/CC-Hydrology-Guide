@@ -60,3 +60,9 @@ Thumbs.db
 results/
 figures/
 output/
+
+# Node.js & VitePress
+node_modules/
+package-lock.json
+.vitepress/cache/
+.vitepress/dist/

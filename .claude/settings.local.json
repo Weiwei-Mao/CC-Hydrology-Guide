@@ -1,10 +1,16 @@
 {
   "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(gh repo create:*)",
+      "Bash(gh repo rename:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(move:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(npm install:*)"
+    ],
     "additionalDirectories": [
       "c:\\Users\\Wei\\Downloads\\CCusage"
-    ],
-    "allow": [
-      "Bash(git init:*)"
     ]
   }
 }
