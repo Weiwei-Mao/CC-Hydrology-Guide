@@ -7,6 +7,9 @@ export default defineConfig({
   // Base path for GitHub Pages
   base: '/CC-Hydrology-Guide/',
 
+  // Ignore dead links during build (references to files outside docs folder)
+  ignoreDeadLinks: true,
+
   locales: {
     root: {
       label: 'English',
