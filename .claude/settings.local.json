@@ -12,7 +12,8 @@
       "Bash(gh run view:*)",
       "Bash(gh run list:*)",
       "Bash(curl:*)",
-      "Bash(npm run docs:build:*)"
+      "Bash(npm run docs:build:*)",
+      "Bash(ls:*)"
     ],
     "additionalDirectories": [
       "c:\\Users\\Wei\\Downloads\\CCusage"

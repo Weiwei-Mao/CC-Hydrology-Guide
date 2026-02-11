@@ -11,6 +11,9 @@ export default defineConfig({
   title: 'Claude Code Guide for Hydrological Research',
   description: 'A Practical Guide to Claude Code for Hydrological Research',
 
+  // 源文档目录
+  srcDir: 'docs',
+
   // Base path for GitHub Pages
   base: '/CC-Hydrology-Guide/',
 
